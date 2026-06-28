@@ -26,7 +26,7 @@ void loop() {
     digitalWrite(13, HIGH);
     delay(1000);
 
-    delay(2000); // Wait for light to turn of
+    delay(2000); // Wait for light to turn off
 
     // All light went down = GO!
     digitalWrite(9, LOW);
